@@ -1,0 +1,168 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body, html{
+    font-family: sans-serif;
+}
+
+.conteudo-total{
+    width: 100%;
+    margin: auto;
+}
+
+header{
+    width: 90vw;
+    margin: 20px auto;
+}
+
+.cabecalho{
+    background-color: #162028;
+    position: relative;
+    
+}
+
+.cabecalho img{
+    margin-left: 150px;
+    padding: 10px 0;
+}
+.cabecalho nav{
+    position: absolute;
+    top: 10px;
+    right: 25px;
+    padding: 10px 0;
+    
+}
+
+.cabecalho nav a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.562);
+    letter-spacing: 2px;
+    margin-right: 10px;
+    letter-spacing: 2px;
+    
+}
+
+.cabecalho nav a:hover{
+    color: white;
+    transition: .5s;
+}
+
+.background{
+    height: 480px;
+    background-image: url(../imagens/topo.jpg);
+    background-position: left center;
+    background-size: cover;
+}
+
+
+
+.portifolio{
+    width: 90vw;
+    margin: 50px auto;
+    
+    
+    text-align: center;
+}
+
+.portifolio h1{
+    margin-bottom: 25px;
+    color: #252525;
+}
+
+.portifolio p{
+    line-height: 2rem;
+    color: #252525;
+    width: 90vw;
+    padding: 0 25px 0 25px;
+    box-sizing: border-box;
+}
+
+.cards{
+    width: 80vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+}
+
+.cards div{
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.cards div img{
+    width: 25vw;
+}
+
+.cards div h4{
+    color: #252525be;
+    margin-top: 10px;
+    margin-bottom: 8px;
+    letter-spacing: 2px;
+}
+
+.cards div p{
+    color: #2525259f;
+    letter-spacing: 1px;
+}
+
+.fashion{
+    background-color: #003d52;
+    background-image: url(../imagens/bg_detalhe.png);
+    width: 90vw;
+    height: 450px;
+    background-repeat: no-repeat;
+    
+    
+    background-size: cover;
+    margin: auto;
+    margin-top: 40px;
+    color: white;
+}
+
+.fashion h1{
+    text-transform: uppercase;
+    padding: 80px 0 50px 50px;
+}
+
+.fashion p{
+    padding: 0 50px;
+    width: 450px;
+    line-height: 25px;
+}
+
+.adress{
+    width: 90vw;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.adress h2{
+    margin-bottom: 25px;
+    color: #143f52;
+    font-size: 26px;
+}
+
+.adress iframe{
+    width: 100%;
+}
+
+
+footer{
+    background-color: #162028;;
+    height: 50px;
+    color: white;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 20px;
+}
+
+footer p{
+    letter-spacing: 1px;
+
+}

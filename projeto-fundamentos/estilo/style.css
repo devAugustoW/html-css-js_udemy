@@ -1,0 +1,143 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body, html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightgrey;
+}
+
+/* INÍCIO DO HEADER */
+header{
+    background: url(../imagens/bg-3.jpg);
+    height: 55vh;
+    background-size: cover;
+    background-position: right center;
+    overflow: auto;
+}
+
+header nav{
+    position: absolute;
+    right: 20px;
+    top: 40px;
+}
+
+header nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    border: 1px solid white;
+    padding: 10px 15px;
+    background-color: rgba(0, 0, 0, 0.411);
+    letter-spacing: 2px;
+}
+
+header nav a:hover{
+    background-color: rgba(0, 0, 0, 0.658);
+    transition: .5s;
+}
+
+header div{
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.568);
+    
+    
+}
+
+header div h1{
+    font-size: 38px;
+    text-transform: uppercase;
+    
+}
+
+header div p{
+    
+    background-color: rgba(0, 0, 0, 0.425);
+    padding: 8px;
+    width: 300px;
+    margin: 40px auto 0px;
+    border-bottom: 1px solid white;
+    
+}
+
+/* INÍCIO CONTEÚDO PRINCIPAL */
+main{    
+    width: 80%;
+    height: 5vh;
+    margin: auto;
+}
+
+section{
+    background-color: white;
+    padding: 10px;
+    margin-top: 15px;
+    height: 150px
+}
+
+.section-cards{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    height: 150px;
+}
+
+.section-cards div {
+    width: 32%;
+    height: 150px;
+    background-color: rgb(151, 146, 146);    
+}
+
+.section-cards div img{
+    width: 100%;  
+    height: 75%;  
+}
+
+.section-cards div p{
+    background-color: rgb(151, 146, 146);    
+    text-align: left;
+    margin-left: 19px;   
+    text-transform: uppercase;
+    color: white;
+    padding: 2px 0 6px;
+    font-weight: 400;
+}
+
+/* SEGUNDA PARTE DO CONTEÚDO PRINCIPAL */
+.section-text{
+    margin-top: 20px;
+    height: 120px;
+}
+
+.section-text h2{
+    background-color: rgba(211, 211, 211, 0.712);
+    padding: 5px;
+    border-bottom: 1px solid rgb(116, 116, 116);
+}
+
+.section-text p{
+    margin-top: 10px;
+}
+
+
+/* INÍCIO DO FOOTER */
+footer{
+    height: 45px;
+    background-color: darkgray;
+    text-align: center;
+    margin-top: 305px;
+    margin-bottom: 0;
+    border-bottom: 1px solid white;
+    
+}
+
+footer p{
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.384);
+    padding-top: 10px;    
+}
