@@ -69,5 +69,6 @@ Projeto mais simples do curso com o único intuito de trabalhar o posionamento d
 ✅ Display<br>
 ✅ Position<br>
 ✅ Float<br>
+O projeto pode ser visualização pelo link abaixo:<br>
 https://devaugustow.github.io/html-css_udemy/projeto-fundamentos/index.html
 <br><br>
