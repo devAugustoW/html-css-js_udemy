@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">
+<h1 align="center">
     <img src="imgReadme/img02.jpg"> 
     <p>Desafios e projetos do curso de HTML, CSS e JavaScript</p>
 </h1>
