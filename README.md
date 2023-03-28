@@ -16,7 +16,7 @@ Projeto mais complexo do curso que traz conceitos de responsividade, menu de ham
 ✅ Posicionamento de elementos na página<br>
 ✅ Display Grid<br><br>
 O projeto pode ser visualização pelo link abaixo:<br>
-https://devaugustow.github.io/html-css_udemy/projeto-infusion/index.html
+<a href="https://devaugustow.github.io/html-css-js_udemy/projeto-infusion/index.html">https://devaugustow.github.io/html-css-js_udemy/projeto-infusion/index.html</a>
 <br><br>
 
 # Projeto Responsivo
@@ -27,7 +27,7 @@ Este projeto teve o intuito de mostrar como usar Media Queries com HTML e CSS pa
 ✅ Posicionamento de elementos<br>
 ✅ Display Grid<br>
 O projeto pode ser visualização pelo link abaixo:<br>
-https://devaugustow.github.io/html-css_udemy/projeto-responsivo/index.html
+<a href="https://devaugustow.github.io/html-css-js_udemy/projeto-responsivo/index.html">https://devaugustow.github.io/html-css-js_udemy/projeto-responsivo/index.html</a>
 <br><br>
 
 # Projeto Strata
@@ -43,7 +43,7 @@ https://devaugustow.github.io/html-css_udemy/projeto-responsivo/index.html
 ✅ Elementos fixos<br>
 ✅ Classes e subclasses<br>
 O projeto pode ser visualização pelo link abaixo:<br>
-https://devaugustow.github.io/html-css_udemy/projeto-strata/index.html
+<a href="https://devaugustow.github.io/html-css-js_udemy/projeto-strata/index.html">https://devaugustow.github.io/html-css-js_udemy/projeto-strata/index.html</a>
 <br><br>
 
 # Projeto Fashion
@@ -57,7 +57,7 @@ Projeto simples que trabalhou com conceitos de posicionamentos verticais e horiz
 ✅ Position<br>
 ✅ Float<br>
 O projeto pode ser visualização pelo link abaixo:<br>
-https://devaugustow.github.io/html-css_udemy/projeto-fashion/index.html
+<a href="https://devaugustow.github.io/html-css-js_udemy/projeto-fashion/index.html">https://devaugustow.github.io/html-css-js_udemy/projeto-fashion/index.html</a>
 <br><br>
 
 # Projeto Fundamentos
@@ -70,5 +70,5 @@ Projeto mais simples do curso com o único intuito de trabalhar o posionamento d
 ✅ Position<br>
 ✅ Float<br>
 O projeto pode ser visualização pelo link abaixo:<br>
-https://devaugustow.github.io/html-css_udemy/projeto-fundamentos/index.html
+<a href="https://devaugustow.github.io/html-css-js_udemy/projeto-fundamentos/index.html">https://devaugustow.github.io/html-css-js_udemy/projeto-fundamentos/index.html</a>
 <br><br>
