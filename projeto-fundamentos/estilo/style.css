@@ -13,7 +13,7 @@ body, html{
 /* INÍCIO DO HEADER */
 header{
     background: url(../imagens/bg-3.jpg);
-    height: 55vh;
+    height: 500px;
     background-size: cover;
     background-position: right center;
     overflow: auto;
@@ -44,25 +44,20 @@ header div{
     text-align: center;
     color: white;
     margin-top: 200px;
-    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.568);
-    
-    
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.568);  
 }
 
 header div h1{
     font-size: 38px;
-    text-transform: uppercase;
-    
+    text-transform: uppercase;    
 }
 
-header div p{
-    
+header div p{   
     background-color: rgba(0, 0, 0, 0.425);
     padding: 8px;
     width: 300px;
     margin: 40px auto 0px;
-    border-bottom: 1px solid white;
-    
+    border-bottom: 1px solid white;    
 }
 
 /* INÍCIO CONTEÚDO PRINCIPAL */
@@ -109,7 +104,7 @@ section{
 
 /* SEGUNDA PARTE DO CONTEÚDO PRINCIPAL */
 .section-text{
-    margin-top: 20px;
+    margin-top:1px;
     height: 120px;
 }
 
