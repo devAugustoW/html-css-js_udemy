@@ -10,7 +10,7 @@ Projeto mais complexo do curso que traz conceitos de responsividade, menu de ham
 
 ✅ Responsividade<br>
 ✅ Menu de hamburguer<br>
-✅ Carrousel de imagens<br>
+✅ Carrossel de imagens<br>
 ✅ Obejto<br>
 ✅ Funções<br>
 ✅ Posicionamento de elementos na página<br>
