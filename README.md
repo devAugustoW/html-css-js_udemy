@@ -6,7 +6,7 @@
 
 # Projeto-Infusion
 
-Projeto mais complexo do curso que traz conceitos de responsividade, menu de hamburguer e corrosel de imagens.<br><br>
+Projeto mais complexo do curso que traz conceitos de responsividade, menu de hamburguer e carrossel de imagens.<br><br>
 
 ✅ Responsividade<br>
 ✅ Menu de hamburguer<br>
